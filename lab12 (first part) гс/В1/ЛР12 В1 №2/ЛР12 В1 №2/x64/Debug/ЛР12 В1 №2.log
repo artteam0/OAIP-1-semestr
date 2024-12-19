@@ -1,0 +1,114 @@
+﻿Сборка начата 02.12.2023 15:45:22.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\ЛР12 В1 №2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "ЛР12 В1 №2.cpp"
+         ЛР12 В1 №2.cpp
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(7,2): error C2062: тип "int" не требуется
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,7): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,14): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,22): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,8): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,15): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,23): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(13,18): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,8): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,15): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,23): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(20,18): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,7): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,14): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,22): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,8): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,12): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,19): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,27): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(28,14): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(28,25): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,16): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,26): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): error C2672: "std::swap": не найдена соответствующая перегруженная функция
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\memory(3502,19): message : может быть "void std::swap(std::unique_ptr<_Ty,_Dx> &,std::unique_ptr<_Ty,_Dx> &) noexcept"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(std::unique_ptr<_Ty,_Dx> &,std::unique_ptr<_Ty,_Dx> &) noexcept": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\memory(3122,6): message : или       "void std::swap(std::weak_ptr<_Ty> &,std::weak_ptr<_Ty> &) noexcept"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(std::weak_ptr<_Ty> &,std::weak_ptr<_Ty> &) noexcept": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\memory(1990,6): message : или       "void std::swap(std::shared_ptr<_Ty> &,std::shared_ptr<_Ty> &) noexcept"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(std::shared_ptr<_Ty> &,std::shared_ptr<_Ty> &) noexcept": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\xstring(4893,19): message : или       "void std::swap(std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &) noexcept"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(std::basic_string<_Elem,_Traits,_Alloc> &,std::basic_string<_Elem,_Traits,_Alloc> &) noexcept": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\utility(477,19): message : или       "void std::swap(std::pair<_Ty1,_Ty2> &,std::pair<_Ty1,_Ty2> &) noexcept(<expr>)"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(std::pair<_Ty1,_Ty2> &,std::pair<_Ty1,_Ty2> &) noexcept(<expr>)": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\type_traits(2141,19): message : или       "void std::swap(_Ty (&)[_Size],_Ty (&)[_Size]) noexcept(<expr>)"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(_Ty (&)[_Size],_Ty (&)[_Size]) noexcept(<expr>)": ожидаются аргументы 2 — 1 предоставлены
+       C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\include\type_traits(2138,19): message : или       "void std::swap(_Ty &,_Ty &) noexcept(<expr>)"
+       C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): message : "void std::swap(_Ty &,_Ty &) noexcept(<expr>)": ожидаются аргументы 2 — 1 предоставлены
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,7): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,14): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,22): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(36,9): error C2659: =: функция в качестве левого операнда
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,8): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,15): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,23): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,14): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,26): error C2065: j: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,36): error C2659: +=: функция в качестве левого операнда
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,7): error C2563: несоответствие в списке формальных параметров
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,22): error C2065: brick: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,50): error C2065: i: необъявленный идентификатор
+     1>C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,54): error C2065: brick: необъявленный идентификатор
+     1>Сборка проекта "C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+
+       "C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(7,2): error C2062: тип "int" не требуется
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,7): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,14): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(9,22): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,8): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,15): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(11,23): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(13,18): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,8): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,15): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(18,23): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(20,18): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,7): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,14): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(24,22): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,8): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,12): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,19): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(26,27): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(28,14): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(28,25): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,16): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,26): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(30,5): error C2672: "std::swap": не найдена соответствующая перегруженная функция
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,7): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,14): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(34,22): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(36,9): error C2659: =: функция в качестве левого операнда
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,8): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,15): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(37,23): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,14): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,26): error C2065: j: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(39,36): error C2659: +=: функция в качестве левого операнда
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,7): error C2563: несоответствие в списке формальных параметров
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,22): error C2065: brick: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,50): error C2065: i: необъявленный идентификатор
+         C:\Users\Lenovo\Desktop\ОАиП 18.11.23 Г\В1\ЛР12 В1 №2\ЛР12 В1 №2\ЛР12 В1 №2.cpp(41,54): error C2065: brick: необъявленный идентификатор
+
+    Предупреждений: 1
+    Ошибок: 38
+
+Прошло времени 00:00:00.44
