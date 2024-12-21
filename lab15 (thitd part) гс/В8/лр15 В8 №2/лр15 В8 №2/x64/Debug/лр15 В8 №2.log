@@ -1,0 +1,30 @@
+﻿Сборка начата 23.12.2023 0:21:01.
+Уровень детализации журнала: Normal.     1>Проект "D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\лр15 В8 №2\лр15 В8 №2.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\x64\Debug\".
+         Создание каталога "x64\Debug\лр15 В8 №2.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\лр15 В8 №2.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\лр15 В8 №2.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "лр15 В8 №2.cpp"
+         лр15 В8 №2.cpp
+     1>D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\лр15 В8 №2\лр15 В8 №2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.38.32919\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\x64\Debug\лр15 В8 №2.exe" /INCREMENTAL /ILK:"x64\Debug\лр15 В8 №2.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\x64\Debug\лр15 В8 №2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\x64\Debug\лр15 В8 №2.lib" /MACHINE:X64 "x64\Debug\лр15 В8 №2.obj"
+         лр15 В8 №2.vcxproj -> D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\x64\Debug\лр15 В8 №2.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\лр15 В8 №2.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\лр15 В8 №2.tlog\лр15 В8 №2.lastbuildstate".
+     1>Сборка проекта "D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\лр15 В8 №2\лр15 В8 №2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\лр15 В8 №2\лр15 В8 №2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\уник\labs\ОАиП\lab15 г\доп\В8\лр15 В8 №2\лр15 В8 №2\лр15 В8 №2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.70
